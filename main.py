@@ -1,3 +1,5 @@
+##>>>>>>>>>>>>>>> BANK MANAGEMENT PROJECT <<<<<<<<<<<<<<<<<##
+
 import customtkinter as ctk
 from tkinter import messagebox
 from datetime import datetime
@@ -455,3 +457,5 @@ class BankApp(ctk.CTk):
 if __name__ == "__main__":
     app = BankApp()
     app.mainloop()
+
+##PROJECT COMPLETED.
