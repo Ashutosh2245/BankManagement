@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ashutosh",
+        "age": 20,
+        "email": "ashu@gmail.com",
+        "pin": 1234,
+        "accountNo.": "5153001234",
+        "balance": 114997.0,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 2,
+                "time": "2025-06-18 10:32:22"
+            },
+            {
+                "type": "withdraw",
+                "amount": 5.0,
+                "time": "2025-06-18 11:08:13"
+            },
+            {
+                "type": "deposit",
+                "amount": 100000.0,
+                "time": "2025-06-18 11:10:39"
+            }
+        ]
+    }
+]
